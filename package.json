@@ -1,0 +1,29 @@
+{
+	"name": "magur-2017",
+	"version": "1.0.0",
+	"description": "Test uygulamasi",
+	"main": "index.js",
+	"scripts": {
+		"test": "echo \"Error: no test specified\" && exit 1",
+		"ugur": "echo 'ugur deli 2020'",
+		"start": "node index.js"
+	},
+	"keywords": [
+		"deneme",
+		"uygulama"
+	],
+	"author": "Magur",
+	"license": "ISC",
+	"dependencies": {
+		"mongoose": "^5.9.20",
+		"nodemailer": "^6.4.10",
+		"simple-is": "^0.2.0"
+	},
+	"devDependencies": {
+		"webpack-cli": "^3.3.12"
+	},
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/magur2017/magur-20200630.git"
+	}
+}
